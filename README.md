@@ -42,4 +42,4 @@ The Tableau dashboard includes the following five visuals:
 This project showcases the effective use of Excel for data cleaning and protection, followed by advanced data visualisation and interactive dashboard creation in Tableau. By transforming raw data into meaningful insights through accessible visualisations, this analysis provides valuable information on global and regional economic indicators, life expectancy, and smartphone usage patterns. The dashboard design also ensures accessibility for colour-blind users through the use of a single gradient of blue, symbols, and labels.
 
 ![Wealth of Nations](https://github.com/LozartaV/Excel-and-Tableau-Project-Wealth-of-Nations-/blob/main/Wealth%20of%20Nations%20(2).png?raw=true)
-[link to my Tableau Dashboard](https://public.tableau.com/app/profile/lozarta.veizaj/viz/WealthofNations_17118415290690/WealthofNations)![image](https://github.com/Lozarta-V/Wealth-of-Nations-
+[link to my Tableau Dashboard](https://public.tableau.com/app/profile/lozarta.veizaj/viz/WealthofNations_17118415290690/WealthofNations)![image]
