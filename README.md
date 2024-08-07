@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-As part of a Data Visualisation Project, I used Excel and Tableau to visualise the Wealth of Nations dataset. In this project, I cleaned, filtered, and sorted the Wealth of Nations data in Excel and created charts. I also password protected the Excel file to ensure data security. The project requirement was to create a dashboard suitable for a colour-blinded client, so I used a single gradient of blue in my dashboard, utilising symbols and labels.
+As part of a Data Visualisation Project, I used Excel and Tableau to visualise the Wealth of Nations dataset. In this project, I cleaned, filtered, and sorted the Wealth of Nations data in Excel and created charts. I also password protected the Excel file to ensure data security. The project requirement was to create a dashboard suitable for a colour-blind client, so I used a single gradient of blue in my dashboard, utilising symbols and labels.
 
 ## Steps and Tools Used
 
